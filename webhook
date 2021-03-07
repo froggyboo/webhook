@@ -1,0 +1,10 @@
+{
+  "content": "hello this is just another test",
+  "embeds": [
+    {
+      "title": "test",
+      "description": "test\ntest\ntest",
+      "color": 5814783
+    }
+  ]
+}
